@@ -1,22 +1,20 @@
 <h2>Outline of genetics</h2>
 <p><strong><a title="Genetics" href="https://en.wikipedia.org/wiki/Genetics">Genetics</a></strong>&nbsp;&ndash;&nbsp;<a title="Science" href="https://en.wikipedia.org/wiki/Science">science</a>&nbsp;of&nbsp;<a title="Gene" href="https://en.wikipedia.org/wiki/Gene">genes</a>,&nbsp;<a title="Heredity" href="https://en.wikipedia.org/wiki/Heredity">heredity</a>, and&nbsp;<a title="Genetic variation" href="https://en.wikipedia.org/wiki/Genetic_variation">variation</a>&nbsp;in living&nbsp;<a title="Organism" href="https://en.wikipedia.org/wiki/Organism">organisms</a>.<sup id="cite_ref-griffiths2000sect60_1-0" class="reference"></sup><sup id="cite_ref-2" class="reference"></sup>&nbsp;Genetics deals with the&nbsp;<a class="mw-redirect" title="Molecular Genetics" href="https://en.wikipedia.org/wiki/Molecular_Genetics">molecular structure and function</a>&nbsp;of genes, and gene behavior in context of a&nbsp;<a title="Cell (biology)" href="https://en.wikipedia.org/wiki/Cell_(biology)">cell</a>&nbsp;or&nbsp;<a title="Organism" href="https://en.wikipedia.org/wiki/Organism">organism</a>&nbsp;(e.g.&nbsp;<a title="Dominance (genetics)" href="https://en.wikipedia.org/wiki/Dominance_(genetics)">dominance</a>&nbsp;and&nbsp;<a title="Epigenetics" href="https://en.wikipedia.org/wiki/Epigenetics">epigenetics</a>), patterns of inheritance from parent to offspring, and gene distribution, variation and change in&nbsp;<a title="Population genetics" href="https://en.wikipedia.org/wiki/Population_genetics">populations</a>.</p>
-<div class="toclimit-2">
-<div class="toc">&nbsp;</div>
-<div id="toc" class="toc"><strong>Contents</strong>
-<div class="toctitle" dir="ltr" lang="en">&nbsp;</div>
+
+<p><strong>Contents</strong></p>
+
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="https://en.wikipedia.org/wiki/Outline_of_genetics#Introduction_to_genetics"><span class="toctext">Introduction to genetics</span></a></li>
-<li class="toclevel-1 tocsection-1"><a href="https://en.wikipedia.org/wiki/Outline_of_genetics#Branches_of_genetics"><span class="toctext">Branches of genetics</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="https://en.wikipedia.org/wiki/Outline_of_genetics#History_of_genetics"><span class="toctext">History of genetics</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="https://en.wikipedia.org/wiki/Outline_of_genetics#General_genetics_concepts"><span class="toctext">General genetics concepts</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="https://en.wikipedia.org/wiki/Outline_of_genetics#Genetic_Modification"><span class="toctext">Genetic Modification</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="https://en.wikipedia.org/wiki/Outline_of_genetics#Genetic_research_and_Darwinism"><span class="toctext">Genetic research and Darwinism</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="https://en.wikipedia.org/wiki/Outline_of_genetics#Concepts_of_Evolution"><span class="toctext">Concepts of Evolution</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="https://en.wikipedia.org/wiki/Outline_of_genetics#Geneticists"><span class="toctext">Geneticists</span></a></li>
-<li class="toclevel-1 tocsection-15"><a href="https://en.wikipedia.org/wiki/Outline_of_genetics#Genetics-related_organizations"><span class="toctext">Genetics-related organizations</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction_to_genetics"><span class="toctext">Introduction to genetics</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Branches_of_genetics"><span class="toctext">Branches of genetics</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History_of_genetics"><span class="toctext">History of genetics</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#General_genetics_concepts"><span class="toctext">General genetics concepts</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Genetic_Modification"><span class="toctext">Genetic Modification</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Genetic_research_and_Darwinism"><span class="toctext">Genetic research and Darwinism</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Concepts_of_Evolution"><span class="toctext">Concepts of Evolution</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Geneticists"><span class="toctext">Geneticists</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Genetics-related_organizations"><span class="toctext">Genetics-related organizations</span></a></li>
 </ul>
-</div>
-</div>
+</br>
 <h2><span id="Introduction_to_genetics" class="mw-headline">Introduction to genetics</span></h2>
 <ul>
 <li><a title="Introduction to genetics" href="https://en.wikipedia.org/wiki/Introduction_to_genetics">Introduction to genetics</a>
